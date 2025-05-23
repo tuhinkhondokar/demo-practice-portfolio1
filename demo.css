@@ -428,6 +428,81 @@ input:focus{
   margin-left: 55%;
   margin-top: 20px;
 }
+.foot{
+  width: 1150px;
+  height: 450px;
+  background-color: #131111;
+  margin-left: 100px;
+  
+}
+.num{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 80px;
+}
+.street{
+  width: 350px;
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  margin-top: 20px;
+  
+}
+.web a{
+  text-decoration: none;
+  color: #FD6E0A;
+  margin-right: 30px;
+}
+.number{
+  margin-top: 20px;
+}
+.web a:hover{
+  color: darkgreen;
+  background-color: #131111;
+}
+.web-link{
+  margin-top: 20px;
+}
+.icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.icon2{
+  margin-left: 10px;
+}
+.icon3{
+  margin-left: 10px;
+}
+.icon4{
+  margin-left: 10px;
+}
+.finish{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 80px;
+  margin-top: 100px;
+  margin-right: 30px;
+}
+.rig{
+  font-size: 24px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+.finish-btn{
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #FD6E0A;
+  border: none;
+  border-radius: 15px;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-weight: bold;
+}
+.finish-btn:hover{
+  color: darkred;
+  background-color: darkslategray;
+}
   
 
 
